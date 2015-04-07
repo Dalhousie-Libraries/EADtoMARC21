@@ -4,7 +4,9 @@
 
 ### Procedures for Converting EAD Finding Aids to MARC Records
 
-Note: These procedures and the accompanying stylesheet were developed by Geoff Brown and Kathryn Harvey between 2004 and 2007. They may require revisions or modifications.
+Note: These procedures and the accompanying stylesheet were developed by Geoff Brown and Kathryn Harvey between 2004 and 2007. They may require revisions or modifications. 
+
+See Geoff Brown and Kathryn Harvey, "Adding Archival Finding Aids to the Library Catalogue: Simple Crosswalk or Data Traffic Jam?," Partnership: the Canadian Journal of Library and Information Practice and Research 2, no 2 (2007). https://journal.lib.uoguelph.ca/index.php/perj/article/view/298/558#.VSQMh5OBt1A. The article is also available via Dalhousie University's institutional repository: http://dalspace.library.dal.ca/handle/10222/14279.
 
 Note: Steps 1-5 should only have to be done the first time you are using this program.
 
